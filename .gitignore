@@ -3,3 +3,6 @@ target
 snfoundry_trace/
 coverage/
 profile/
+
+account0_account.json 
+account0_keystore.json 
